@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Add new staff";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form action="/Home/AddStaff" method="post">
+    <div class="mb-3">
+        <label for="id" class="form-label">Staff ID:</label>
+        <input type="text" class="form-control" name="id" required />
+    </div>
+    <div class="mb-3">
+        <label for="name" class="form-label">Name:</label>
+        <input type="text" class="form-control" name="name" required />
+    </div>
+    <div class="mb-3">
+        <label for="email" class="form-label">Email:</label>
+        <input type="email" class="form-control" name="email" pattern="^((?!\.)[\w\-_.]*[^.])(@@\w+)(\.\w+(\.\w+)?[^.\W])$" required />
+    </div>
+    <div class="mb-3">
+        <label for="phone" class="form-label">Phone:</label>
+        <input type="tel" class="form-control" name="phone" pattern="^(0|\+84)(3(2[5-9]|[3-9][2-9])|5(2[238]|59|6[2-9]|8[2-9]|9[2389])|7(0[2-8]|[6-9][2-9])|8([1-5][2-9]|6[259]|7[6-9]|[89][689])|9([0-4][1-9]|[6-8][1-9]|9[3-7]))\d{6}$" required />
+    </div>
+    <div class="mb-3">
+        <label for="startingDate" class="form-label">Starting date: </label>
+        <input type="date" class="form-control" name="startingDate" required />
+    </div>
+    <div class="mb-3">
+        <label for="photo" class="form-label">Photo: </label>
+        <input type="text" class="form-control" name="photo" required />
+    </div>
+    @if (ViewBag.Message != null)
+    {
+        <div class="text-danger mb-3">@ViewBag.Message</div>
+    }
+    <button type="submit" class="btn btn-primary">Add Staff</button>
+</form>

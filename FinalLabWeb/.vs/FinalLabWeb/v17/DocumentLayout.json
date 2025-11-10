@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\models\\modelcheckingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:models\\modelcheckingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\views\\home\\getstafflist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:views\\home\\getstafflist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\services\\implementations\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:services\\implementations\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\views\\home\\getstaffinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:views\\home\\getstaffinformation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\services\\interfaces\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:services\\interfaces\\istaffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|d:\\aspdotnet projects\\modelchecking\\finallabweb\\finallabweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F34C360E-C8F3-414B-9698-8299E04122EF}|FinalLabWeb.csproj|solutionrelative:finallabweb.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModelCheckingContext.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Models\\ModelCheckingContext.cs",
+              "RelativeDocumentMoniker": "Models\\ModelCheckingContext.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Models\\ModelCheckingContext.cs",
+              "RelativeToolTip": "Models\\ModelCheckingContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:56:55.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Services\\Implementations\\StaffService.cs",
+              "RelativeDocumentMoniker": "Services\\Implementations\\StaffService.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Services\\Implementations\\StaffService.cs",
+              "RelativeToolTip": "Services\\Implementations\\StaffService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwEkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:04:07.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStaffService.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Services\\Interfaces\\IStaffService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IStaffService.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Services\\Interfaces\\IStaffService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IStaffService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:03:56.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T06:54:43.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAWwEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:53:30.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetStaffList.cshtml",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\GetStaffList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetStaffList.cshtml",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\GetStaffList.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetStaffList.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:19:33.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T07:17:04.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetStaffInformation.cshtml",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\GetStaffInformation.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\GetStaffInformation.cshtml",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Views\\Home\\GetStaffInformation.cshtml",
+              "RelativeToolTip": "Views\\Home\\GetStaffInformation.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAWwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T08:26:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "Models\\Staff.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Models\\Staff.cs",
+              "RelativeToolTip": "Models\\Staff.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:04:23.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T06:54:07.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T06:56:33.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FinalLabWeb",
+              "DocumentMoniker": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\FinalLabWeb.csproj",
+              "RelativeDocumentMoniker": "FinalLabWeb.csproj",
+              "ToolTip": "D:\\ASPdotNET projects\\ModelChecking\\FinalLabWeb\\FinalLabWeb.csproj",
+              "RelativeToolTip": "FinalLabWeb.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T06:53:09.047Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

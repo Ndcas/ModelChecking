@@ -1,0 +1,49 @@
+﻿@using FinalLabWeb.Models
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>View staff information</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <div class="container">
+        <a class="btn btn-primary m-3" href="/Home/GetStaffList">Back</a>
+        @if (ViewBag.Message != null)
+        {
+            <div class="text-danger text-center">@ViewBag.Message</div>
+        }
+        else
+        {
+            Staff staff = ViewBag.Staff;
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">ID:</div>
+                <div class="col-6">@staff.Id</div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">Name:</div>
+                <div class="col-6">@staff.Name</div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">Email:</div>
+                <div class="col-6">@staff.Email</div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">Phone number:</div>
+                <div class="col-6">@staff.Phone</div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">Starting date:</div>
+                <div class="col-6">@staff.StartingDate.ToString("dd/MM/yyyy")</div>
+            </div>
+            <div class="row mb-3 justify-content-center">
+                <div class="col-3 fw-bold">Photo:</div>
+                <div class="col-6">@staff.Photo</div>
+            </div>
+        }
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

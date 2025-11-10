@@ -1,0 +1,37 @@
+﻿@using FinalLabWeb.Models
+@{
+    ViewBag.Title = "View staff list";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (ViewBag.Message != null)
+{
+    <div class="text-danger text-center">@ViewBag.Message</div>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone number</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Staff staff in ViewBag.StaffList)
+            {
+                <tr>
+                    <td>@staff.Id</td>
+                    <td>@staff.Name</td>
+                    <td>@staff.Email</td>
+                    <td>@staff.Phone</td>
+                    <td>
+                        <a class="btn btn-primary" href="/Home/GetStaffInformation?id=@staff.Id">View details</a>
+                    </td>
+                </tr>
+            }
+    </table>
+}
